@@ -1,14 +1,5 @@
-# Welcome to your CDK TypeScript project
+# Welcome to your the Cloud Resume of Quinn Peters
 
-This is a blank project for CDK development with TypeScript.
+This is a small project designed to address the Cloud Resume Challenge presented
+by AWS to show how super cool of an Enginner I am by knowcking it out!
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-## Useful commands
-
-* `npm run build`   compile typescript to js
-* `npm run watch`   watch for changes and compile
-* `npm run test`    perform the jest unit tests
-* `cdk deploy`      deploy this stack to your default AWS account/region
-* `cdk diff`        compare deployed stack with current state
-* `cdk synth`       emits the synthesized CloudFormation template
