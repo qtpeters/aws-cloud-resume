@@ -1,8 +1,8 @@
 {
-  "name": "cdk",
+  "name": "aws-cloud-resume",
   "version": "0.1.0",
   "bin": {
-    "cdk": "bin/cdk.js"
+    "aws-cloud-resume": "bin/aws-cloud-resume.js"
   },
   "scripts": {
     "build": "tsc",
